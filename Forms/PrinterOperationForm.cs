@@ -79,14 +79,14 @@ namespace PrintPro.Forms
 
         private void searchTB_Click(object sender, EventArgs e)
         {
-
+            //Поиск с помощью textBox
            
         }
 
         private void metroButton2_Click(object sender, EventArgs e)
         {
 
-
+           
         }
     }
 }
